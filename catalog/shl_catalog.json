@@ -1,0 +1,882 @@
+[
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "description": "The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application Development, Application Foundation, Data Modeling, Deployment, Diagnostics, Performance, Portability, and Security.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 30",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "description": "Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, validation, security, routing, and areas.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 17",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "description": "Multi-choice test that measures the knowledge of MVVM pattern, scenarios, data validation, ViewModel communication and Quick-start.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 5",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "description": "Multi-choice test that measures the knowledge of .NET fundamentals, WCF architecture, programming model, SOA, managing and programming WCF.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 11",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "description": "Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, working with WPF windows/menus and deploying WPF applications.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 9",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "description": "Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and layouts.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 5",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "description": "Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 9",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+    "category": "Simulations",
+    "duration": "Approximate Completion Time in minutes = 8",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "S - Simulations"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "description": "Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 13",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+    "category": "Simulations",
+    "duration": "Approximate Completion Time in minutes = 8",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "S - Simulations"
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+    "description": "The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office management functions and customer service. Sample tasks for this job include, but are not limited to: arranging conference calls; drafting correspondence; scheduling meetings; greeting visitors; coordinating office activities. Potential job titles that use this solution are: Administrative Assistant, Secretary, Office Manager, Administrative Aide, and Administrative Associate.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 36",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "description": "Multi-choice test that measures the knowledge on the concepts of ADO.NET architecture, components and data provider objects.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 10",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "description": "The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs include, but are not limited to: answering telephones, managing files and records, sorting mail, greeting customers, and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. There are multiple configurations of this solution available.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 35",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+    "description": "This solution is for entry-level collections positions in an inbound or outbound call center environment in a financial setting. Candidates answer multiple choice questions to measure achievement orientation, dependability, collector numerical skills, revenue recovery, customer focus, and persistence and planfulness. There are multiple configurations and versions of this solution available.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 45",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "description": "The Bank Operations Supervisor solution is for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills ; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, First Line Supervisor, Processing Supervisor, Call Center Supervisor, and Customer Service Supervisor. There are multiple configurations and versions of this solution available.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 45",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+    "category": "Personality & Behavior",
+    "duration": "Approximate Completion Time in minutes = 49",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "P - Personality & Behavior"
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+    "description": "This solution is for mid to upper-level financial institution managerial positions. Candidates answer a series of multiple choice questions to measure management potential, management judgment, leadership potential, team management, branch manager problem solving, business leadership, leadership motivation, interpersonal leadership, self leadership, and branch manager judgment. There are multiple configurations and versions of this solution available.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 50",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Contact Center Customer Service + 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0/",
+    "description": "The Contact Center + 8.0 - Customer Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact center roles where the main focus is customer service. This JFA includes a mobile-optimized contact center simulation, a behavioral assessment, and a cognitive test. Together, these assessments capture the ability to provide exceptional customer service in entry-level contact center roles.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 41",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Contact Center Customer Service 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+    "description": "The Customer Service 8.0 JFA is designed for entry-level positions in a contact center environment where the main focus is customer service.",
+    "category": "Simulations",
+    "duration": "Approximate Completion Time in minutes = 31",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "S - Simulations"
+  },
+  {
+    "name": "Contact Center Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-manager-short-form/",
+    "description": "The Contact Center - Manager solution is for mid to upper-level contact center managerial positions. Sample tasks for these jobs include, but are not limited to: supervising and coordinating the activities of subordinates; interacting day-to-day with subordinates; and training employees. Potential job titles that use this solution are: Contact Center Team Leader, First Line Supervisor, and Contact Center Manager.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 50",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Contact Center Sales & Service + 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+    "description": "The Contact Center + 8.0 - Sales & Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact center roles that involve sales-related behaviors such as recommending products or services and retaining customers. This JFA includes a mobile-optimized contact center simulation, a behavioral assessment, and a cognitive test. Together, these assessments capture the ability to provide exceptional customer service and drive sales in entry-level contact center roles.",
+    "category": "Personality & Behavior",
+    "duration": "Approximate Completion Time in minutes = 41",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "P - Personality & Behavior"
+  },
+  {
+    "name": "Contact Center Sales & Service 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+    "description": "The Sales & Service 8.0 JFA is designed for contact center roles that involve sales or sales-related behaviors such as recommending products or services and retaining customers.",
+    "category": "Simulations",
+    "duration": "Approximate Completion Time in minutes = 31",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "S - Simulations"
+  },
+  {
+    "name": "Contact Center Team Lead/Coach - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+    "description": "The Contact Center - Team Lead/Coach solution is for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules; assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks; developing employees' skills; training subordinates or less tenured peers; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, Coach, First Line Supervisor, Processing Supervisor, Call Center Supervisor, and Customer Service Supervisor.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 45",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Customer Service - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form/",
+    "description": "The Customer Service Representative Solution is for entry-level positions that involve a high degree of interaction with customers in person or on the phone. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; responding positively to difficult customers; referring unresolved issues to the appropriate individuals; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Customer Service Agent.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 42",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Customer Service - Short Form - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form-uk/",
+    "description": "The Customer Service Representative solution is for entry-level positions that involve a high degree of interaction with customers in person or on the phone. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; responding positively to difficult customers; referring unresolved issues to the appropriate individuals; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Customer Service Agent.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 42",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Customer Service with Sales - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-with-sales-short-form/",
+    "description": "The Customer Service with Sales solution is for entry-level positions that involve both providing service and support to customers and selling goods and services. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; selling products and services; responding positively to difficult customers; adding new goods and services to existing accounts; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Sales Representative.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 44",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Director - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/director-short-form/",
+    "description": "The Director solution is intended for use with senior level positions responsible for the planning, directing, or coordinating key business activities and operations of companies. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources. Potential job titles that use this solution are: Director, Regional Director, and Director of Operations.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 69",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+    "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 18",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+    "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 18",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+    "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+    "category": "Competencies",
+    "duration": "Approximate Completion Time in minutes = 19",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "C - Competencies"
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+    "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+    "category": "Competencies",
+    "duration": "Approximate Completion Time in minutes = 19",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "C - Competencies"
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (South Africa)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+    "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organization's products or services. Sample tasks for these jobs include but are not limited to interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+    "category": "Competencies",
+    "duration": "Approximate Completion Time in minutes = 19",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "C - Competencies"
+  },
+  {
+    "name": "Entry level Sales 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+    "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Entry level Sales 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1/",
+    "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer. Report Language Availability: English (USA), English International, Portuguese, French Canadian, German, French, Chinese Simplified, Spanish, North American Spanish.",
+    "category": "Personality & Behavior",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "P - Personality & Behavior"
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7.1",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "description": "The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer",
+    "category": "Competencies",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "C - Competencies"
+  },
+  {
+    "name": "Executive - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-short-form/",
+    "description": "The Executive solution is intended for use with senior executive level positions responsible for planning, directing, or coordinating key business activities and operations at the highest level of an organization. Executives at this level often accomplish their work through subordinate executives and provide overall direction to their organization by determining and formulating policies within guidelines set up by a board of directors or similar governing body. Potential job titles that use this solution are: Executive Vice President, President, and Executive Director.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 74",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Financial Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-professional-short-form/",
+    "description": "This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure financial professional aptitude, learning potential, achievement orientation, conscientiousness, persistence and planfulness, self leadership, interpersonal leadership, sales focus and customer focus.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 35",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "General Entry Level - All Industries 7.1(Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+    "description": "Our General Entry Level – All Industries 7.1 solution is designed for entry-level positions across industries. This solution predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and effectively working alongside others. Solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Administrator, Clerk, Veterinary Assistant, Stocker, Dish Washer, Office Coordinator, Tour Guide, Cook, Assistant, Housekeeper, Waste Collector.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 19",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "description": "This report is designed to be given to individuals who have completed the Global Skills Assessment (GSA). With coverage across the Great 8 Domains, this measure of self-reported behaviors offers a complete overview of their current skills. Participants receive actionable tips on leveraging their top skill strengths and how they might develop their growth skills.",
+    "category": "Ability & Aptitude",
+    "duration": "Not specified",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Industrial - Entry Level 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+    "description": "Our Industrial – Entry Level 7.1 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough. Potential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Industrial - Entry Level 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+    "description": "Our Industrial – Entry Level 7.1 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough. Potential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Industrial - Semi-skilled 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+    "description": "Our Industrial – Semi-skilled 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance for production workers. The solution assesses behaviors and competencies foundational to industrial roles including: following policies and procedures; applying relevant trade skills; wearing required protective equipment; working with or monitoring equipment; producing high quality work; effectively working with others; and maintaining an orderly work environment. Potential job titles that use this solution include: Production and Assembly Worker, Construction Worker, Extraction Technician. Please note this package is in Americas norm.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 24",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Industrial - Semi-skilled 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+    "description": "Our Industrial – Semi-skilled 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance for production workers. The solution assesses behaviors and competencies foundational to industrial roles including: following policies and procedures; applying relevant trade skills; wearing required protective equipment; working with or monitoring equipment; producing high quality work; effectively working with others; and maintaining an orderly work environment. Potential job titles that use this solution include: Production and Assembly Worker, Construction Worker, Extraction Technician. Please note this package is in International norm.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 24",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Industrial Professional and Skilled 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+    "description": "Our Industrial – Professional and Skilled 7.1 solution is designed to measure the behaviors and experiences that underlie successful and safe performance in the workplace for specialized technical or professional industrial roles. This solution assesses mechanical comprehension and other foundational behaviors including: behaving safely and efficiently in the workplace; installing, repairing, and/or maintaining equipment and machinery; making sound mechanical decisions; maintaining an orderly work environment; and producing high quality and reliable work. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 49",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Manager + 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-solution-4242/",
+    "description": "Our Manager + 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise salaried employees, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees ' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems. Report Language Availability: English (USA), Canadian French. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is Americas and International\".",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 63",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Manager + 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28international%29/",
+    "description": "Our Manager + 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise salaried employees, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees ' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems. Report Language Availability: English (USA), Canadian French, Brazilian Portuguese, Danish, Dutch, Finnish, Italian, Norwegian, Swedish. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is Americas and International\".",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 63",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-short-form/",
+    "description": "The Manager solution is an assessment used for job candidates applying to entry-level leadership positions who tend to supervise salaried employees. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems. Potential job titles that use this solution are: Manager, Store Manager, and Branch Manager.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 57",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Manager 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28americas%29/",
+    "description": "Our Manager 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise salaried employees. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees ' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems. Report Language Availability: English (USA), Danish, Finnish, Canadian French, Italian, Norwegian, French, German, English International,. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International\".",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 40",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Manager 8.0 JFA",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-8-0-jfa/",
+    "description": "The Manager 8.0 Job-Focused Assessment is designed for candidates applying to their first leadership positions. It measures behaviors that underlie successful performance in first-line manager roles across a wide range of industries. It is most relevant to positions that supervise salaried employees. This JFA includes the Reskilling Potential Scale and the Management Potential Scale. •The Reskilling Potential scale measures tendency to learn from experiences in a way that supports professional success. •The Management Potential scale measures the potential for managerial success across industry type and functional area.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 26",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Manager 8.0+ JFA",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "description": "The Manager 8.0+ Job-Focused Assessment is designed for candidates applying to their first leadership positions and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Inductive Reasoning. It measures behaviors that underlie successful performance in first-line manager roles across a wide range of industries. It is most relevant to positions that supervise salaried employees. This JFA includes the Reskilling Potential Scale and the Management Potential Scale. •The Reskilling Potential scale measures tendency to learn from experiences in a way that supports professional success. •The Management Potential scale measures the potential for managerial success across industry type and functional area.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 44",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Manufacturing Production Team Member",
+    "url": "https://www.shl.com/products/product-catalog/view/manufacturing-production-team-member/",
+    "description": "The Manufacturing Production Team Member solution is designed for entry-level positions to measure the behaviors and experiences that underlie successful and safe performance in the workplace for production workers. This solution measures a candidate’s error checking abilities and general tendency to behave safely and efficiently in the workplace. The solution uses a variety of assessment types including measures of personality traits, safety-related situational judgment, and error checking. The Manufacturing Production Team Member solution is designed for selection to job titles, such as: Production Worker, Material Handler, Driver, Forklift Operator, Crewman, Mechanic, and Receiver.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 35",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Manufacturing Skilled Maintenance Worker",
+    "url": "https://www.shl.com/products/product-catalog/view/manufacturing-skilled-maintenance-worker/",
+    "description": "The Manufacturing Skilled Maintenance solution is designed for entry-level positions to measure the behaviors and experiences that underlie successful and safe performance in the workplace. This solution measures a candidate’s mechanical comprehension abilities and general tendency to behave safely and efficiently in the workplace. This solution uses a variety of assessment types including measures of personality traits, safety-related situational judgment, and mechanical comprehension. The Manufacturing Skilled Maintenance solution is designed for selection to job titles, such as: Industrial Machinery Mechanic, Automotive Service Technician, Small Engine Mechanic, Mobile Equipment Service Technician, and Diesel Service Technician.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 45",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Personal Banker - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/personal-banker-short-form/",
+    "description": "The Personal Banker – Loan Officer solution is for entry to mid-level financial institution positions. Sample tasks for this job would include, but are not limited to: acquiring, retaining and expanding new and existing customer relationships, discovering customer needs, making the best recommendation, completing sales, proactively contacting & meeting customers, and asking for referrals.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 30",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Phone Banker - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/phone-banker-short-form/",
+    "description": "This solution is for entry to mid-level financial institution positions. Candidates are asked to answer multiple choice questions to assess learning potential, dependability, persistence and planfulness, sales focus, customer focus, and working with information.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 40",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Professional + 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-%28americas%29/",
+    "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 56",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Professional 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution-4247/",
+    "description": "Our Professional 7.1 solution is designed for all non-managerial professional individual contributor positions. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+    "category": "Competencies",
+    "duration": "Approximate Completion Time in minutes = 33",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "C - Competencies"
+  },
+  {
+    "name": "Professional 8.0 JFA",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-8-0-jfa/",
+    "description": "The Professional 8.0 Job-Focused Assessment is designed for all non-managerial professional/individual contributor positions. It measures behaviors that underlie successful performance in a professional/individual contributor setting across a wide range of industries.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 16",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Professional/Individual Contributor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/professionalindividual-contributor-short-form/",
+    "description": "The Professional/Individual Contributor solution is for mid to upper-level, non-managerial positions. Sample tasks for these jobs include, but are not limited to: meeting with clients to determine their needs, analyzing data sets, and working with co-workers to complete projects. Potential job titles that use this solution are: Engineer, Human Resource Consultant, and IT Analyst.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 44",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Project Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/project-manager-short-form/",
+    "description": "The Project Manager solution is designed for positions that lead medium to large scale projects with multiple team members involved. Sample tasks for this job include, but are not limited to: guiding, supervising, and influencing project team members, scoping project resource requirements, and managing project timelines, scope and budgets. Potential job titles that ues this solution are: Project Manager, Implementation Manager, Construction Project Manager and IT Project Manager.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 49",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Proof Operator - Processing Specialist -Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+    "description": "The Proof Operator – Processing Specialist solution is for entry-level positions that perform basic daily bank operations procedures such as the processing of deposits, reconciling accounts, and handling money transfers. Potential job titles include: Proof Operator, Bank Operations Processor, and Operations Specialist.",
+    "category": "Simulations",
+    "duration": "Approximate Completion Time in minutes = 30",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "S - Simulations"
+  },
+  {
+    "name": "Sales Professional 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+    "description": "Our Sales Professional 7.1 solution is designed for entry to mid-level sales positions in which employees proactively sell products to customers, develop relationships with repeat customers, and have their pay and/or performance heavily based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and building ongoing customer relationships.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 21",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Store Manager 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+    "description": "Our Store Manager 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees in a retail or restaurant setting. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 34",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Store Manager 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28international%29/",
+    "description": "Our Store Manager 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees in a retail or restaurant setting. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.",
+    "category": "Competencies",
+    "duration": "Approximate Completion Time in minutes = 34",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "C - Competencies"
+  },
+  {
+    "name": "Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-short-form/",
+    "description": "The Supervisor solution is an assessment used for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills ; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, First Line Supervisor, Call Center Supervisor, and Customer Service Supervisor.",
+    "category": "Simulations",
+    "duration": "Approximate Completion Time in minutes = 57",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "S - Simulations"
+  },
+  {
+    "name": "Supervisor 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+    "description": "Our Supervisor 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others. Report Language Availability: English (USA), Canadian French, Brazilian Portuguese. “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 29",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Supervisor 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28international%29/",
+    "description": "Our Supervisor 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others. Report Language Availability: English International, German, Portuguese, Spanish, Norwegian, Swedish, Dutch, French, English (USA) “IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+    "category": "Personality & Behavior",
+    "duration": "Approximate Completion Time in minutes = 29",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "P - Personality & Behavior"
+  },
+  {
+    "name": "Teller 7.0",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-7-0/",
+    "description": "Teller or cashier positions are integral to financial institutions as they conduct numerous banking transactions each day, as well as being the face of the bank to its customers. The Teller Solution contains scales that measure a person’s ability to handle money, prevent transactional errors, promote quality customer service, and generate sales or referrals appropriately.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 35",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Teller with Sales - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-with-sales-short-form/",
+    "description": "The Teller solution with Sales is for entry-level financial institution teller positions. Sample tasks for this job would include, but are not limited to: balancing currency, coin and checks, cashing checks and paying out money, entering customer transactions into computers, and suggestive selling after a customer service interaction.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 35",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "Workplace Safety - Individual 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "description": "Our Workplace Safety - Individual 7.0 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance with more individually-oriented roles or work environments. The solution assesses behaviors and competencies foundational to safety across a wide range of jobs, including: following policies and procedures; wearing required protective equipment; safely operating vehicles and/or machinery; taking action in unsafe situations; and producing high quality work. Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining. Report Language Availability: English (USA), Latin American Spanish.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 16",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Workplace Safety - Individual 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "description": "Our Workplace Safety - Individual 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance with more individually-oriented roles or work environments. The solution assesses behaviors and competencies foundational to safety across a wide range of jobs, including: following policies and procedures; wearing required protective equipment; safely operating vehicles and/or machinery; taking action in unsafe situations; and producing high quality work. Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 16",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Workplace Safety - Team 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "description": "The Workplace Safety – Team 7.1 solution is designed for entry-level positions to measure the competencies and experiences that underlie successful and safe performance in a team based work environment. The solution predicts the following types of behaviors and competencies foundational to safety across a wide range of jobs: wearing required protective equipment; working hard and responsibly; safely moving equipment, freight, or other materials; working and communicating effectively with others; taking action when unsafe situations occur; and following policies and procedures Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining.",
+    "category": "Biodata & Situational Judgement",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Accelerate Your Talent Strategy",
+    "adaptive_support": "Not specified",
+    "test_type": "B - Biodata & Situational Judgement"
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "description": "Multi-choice test that measures the knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 6",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency. Relevant for Java Architect, Backend Development Engineer, Software Developer, Backend Developer and Android Developer roles.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 13",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "description": "The Global Skills Assessment measures 96 discrete skills and behaviors aligned to SHL's Universal Competency Framework. The GSA measures self-reported behaviors an individual currently engages in.",
+    "category": "Competencies, Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 16",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "C - Competencies, K - Knowledge & Skills"
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "description": "Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 18",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "description": "Multi-choice test that measures the knowledge of the types of design patterns in Java and principles like threads and refactoring used in Java design patterns.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 5",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "description": "Multi-choice test that measures the knowledge of different Java frameworks including Struts, Hibernate and Spring.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 17",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "description": "Multi-choice test that measures the knowledge of the architecture, cluster and services of Kubernetes.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 6",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "The SHL Occupational Personality Questionnaire OPQ32 provides a framework for understanding the impact of personality and workplace behavioural style on job performance.",
+    "category": "Personality & Behavior",
+    "duration": "Approximate Completion Time in minutes = Untimed, approx. 25",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "P - Personality & Behavior"
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "description": "This OPQ report is based on the Universal Competency Framework and outlines how an individual's typical way of behaving is likely to impact workplace competencies.",
+    "category": "Personality & Behavior",
+    "duration": "Not specified",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "P - Personality & Behavior"
+  },
+  {
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "description": "The Programming Concepts test measures knowledge of core computer science programming concepts across programming languages, including algorithms, complex data types, data access, program flow, program structure, programming paradigms, variables, data types and operators.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 25",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "description": "Multi-choice test that measures the knowledge of Python programming, databases, modules and library.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 11",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "description": "Multi-choice test that measures the knowledge of REST features, architecture, handling requests, producing responses, entity translation, working with return types, security, filters and interceptors.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 12",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "SHL Verify Interactive - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "description": "Measures the ability to draw logical conclusions based on information provided, identify strengths and weaknesses of arguments, and complete scenarios using incomplete information.",
+    "category": "Ability & Aptitude, Simulations",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude, S - Simulations"
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "description": "Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts.",
+    "category": "Ability & Aptitude, Simulations",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude, S - Simulations"
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "description": "SHL Verify Interactive G+ is a general cognitive ability test that generates deductive reasoning, inductive reasoning, numerical reasoning and general ability scores.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 36",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "description": "Multi-choice test that measures the knowledge of SQL queries, data manipulation and transaction processing.",
+    "category": "Knowledge & Skills",
+    "duration": "Approximate Completion Time in minutes = 9",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "K - Knowledge & Skills"
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "description": "The Verify Numerical Ability test measures the ability to derive numerical problems from written problems, calculate answers to numerical equations, and work with numerical data in realistic workplace contexts.",
+    "category": "Ability & Aptitude",
+    "duration": "Approximate Completion Time in minutes = 20",
+    "remote_testing_support": "Downloads",
+    "adaptive_support": "Not specified",
+    "test_type": "A - Ability & Aptitude"
+  }
+]
